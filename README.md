@@ -55,9 +55,9 @@ const ronald = {
 ### 🔥 Other Notable Projects
 | Project | Tech Stack | Description | Status |
 |---------|------------|-------------|---------|
-| **E-Commerce Platform** | Next.js, Stripe, PostgreSQL | Full-stack e-commerce with admin dashboard | 🟢 Live |
+| **E-Commerce Platform** | Next.js, Stripe, PostgreSQL | Full-stack e-commerce with admin dashboard | 🟡 Live but needs developing |
 | **Task Management AI** | React, Node.js, OpenAI API | AI-powered task prioritization | 🔧 Developing |
-| **Dev Community** | Next.js, Redis, WebSockets | Real-time developer community platform | 🟡 Beta |
+| **Dev Community** | Next.js, Redis, WebSockets | Real-time developer community platform | 🔧 Developing |
 
 ## 🛠️ Tech Stack & Expertise
 
