@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
 <h3 align="center">A passionate & autodidact Full-Stack developer from Cuba</h3>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldgga&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldgga" /> </p>
 
 - 🔭 I’m currently working on [ChessMaster](https://chess-openings-indol.vercel.app)
