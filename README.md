@@ -1,39 +1,170 @@
-<h1 align="center">Hi 👋, I'm Ronald</h1>
-<h3 align="center">A passionate & autodidact Full-Stack developer from Cuba</h3>
+# 💻 Ronald De Armas | Full-Stack Developer
 
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=ronaldgga&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Coding%20%F0%9F%92%BB-blue?style=for-the-badge)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldgga&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldgga" /> </p>
+*"Transforming complex problems into elegant solutions through code"*
 
-- 🔭 I’m currently working on [ChessMaster](https://chess-openings-indol.vercel.app)
+</div>
 
-- 🌱 I’m currently learning **Cutting-edge technologies and fundamentals**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Any project related to my stack**
+```typescript
+const ronald = {
+  pronouns: "he" | "him",
+  code: ["TypeScript", "Python", "C++", "Java"],
+  technologies: {
+    frontend: {
+      frameworks: ["Next.js", "React", "Tailwind CSS"],
+      stateManagement: ["Zustand", "Redux Toolkit"],
+      testing: ["Jest", "React Testing Library"]
+    },
+    backend: {
+      runtime: ["Node.js", "Express"],
+      databases: ["PostgreSQL", "MongoDB", "Prisma"],
+      auth: ["NextAuth", "Auth.js"]
+    },
+    devOps: ["Docker", "Vercel", "GitHub Actions"],
+    tools: ["Git", "Postman", "VS Code"]
+  },
+  architecture: ["Microservices", "REST APIs", "Serverless"],
+  currentFocus: "Building scalable full-stack applications with cutting-edge tech",
+  funFact: "I solve coding challenges for breakfast 🧠"
+};
+```
 
-- 👨‍💻 All of my projects are available at [http://github.com/RonaldGGA](http://github.com/RonaldGGA)
+## 🌟 Featured Projects
 
-- 💬 Ask me about **react, nextjs, prisma, typescript**
+### 🎯 ChessMaster - Advanced Chess Platform
+> **Next.js 14 • TypeScript • PostgreSQL • Prisma • WebSockets**
 
-- 📫 How to reach me **ronald.dearmass@gmail.com**
+```bash
+🚀 Live Demo: https://chess-openings-indol.vercel.app
+📁 Repository: Private (Available on request)
+```
 
-- 📄 Know about my experiences [Coming soon...](Coming soon...)
+**Key Features:**
+- Real-time multiplayer chess with WebSocket integration
+- Advanced chess engine analysis
+- Opening repertoire builder with AI suggestions
+- Performance analytics and move history
+- Responsive design with PWA capabilities
 
-- ⚡ Fun fact **I code for fun as well :)**
+### 🔥 Other Notable Projects
+| Project | Tech Stack | Description | Status |
+|---------|------------|-------------|---------|
+| **E-Commerce Platform** | Next.js, Stripe, PostgreSQL | Full-stack e-commerce with admin dashboard | 🟢 Live |
+| **Task Management AI** | React, Node.js, OpenAI API | AI-powered task prioritization | 🔧 Developing |
+| **Dev Community** | Next.js, Redis, WebSockets | Real-time developer community platform | 🟡 Beta |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ronaldgga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ronaldgga" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ronald-de-armas-8797082ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronald-de-armas-8797082ab" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ronaldgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ronaldgg" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack & Expertise
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 💼 Core Competencies
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldgga&show_icons=true&locale=en&layout=compact" alt="ronaldgga" /></p>
+**Frontend Mastery**
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronaldgga&show_icons=true&locale=en" alt="ronaldgga" /></p>
+**Backend Excellence**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldgga&" alt="ronaldgga" /></p>
+**Developer Tools**
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+</div>
+
+## 📊 Development Analytics
+
+<div align="center">
+
+### 📈 Coding Activity
+![Ronald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaldgga&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+### 🗣️ Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldgga&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronaldgga&theme=radical&hide_border=true)
+
+</div>
+
+## 🎯 Currently Building & Learning
+
+```python
+current_goals = {
+    "mastering": [
+        "Advanced System Design",
+        "Microservices Architecture", 
+        "Real-time Applications with WebSockets",
+        "Advanced TypeScript Patterns"
+    ],
+    "exploring": [
+        "Machine Learning with Python",
+        "Cloud Native Technologies",
+        "Blockchain Development",
+        "AI/ML Integration in Web Apps"
+    ],
+    "certifications_in_progress": [
+        "AWS Certified Developer",
+        "Google Cloud Professional"
+    ]
+}
+```
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronald.dearmass@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronald-de-armas-8797082ab)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/ronaldgg)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ronaldgga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ronald-dev.vercel.app) *Coming Soon*
+
+</div>
+
+## 💡 What I Bring to Your Team
+
+```yaml
+value_proposition:
+  technical_excellence:
+    - "Clean, maintainable code with best practices"
+    - "Performance optimization and scalability focus"
+    - "Modern tech stack with future-proof solutions"
+  
+  problem_solving:
+    - "Algorithmic thinking and efficient solutions"
+    - "Creative approach to complex challenges"
+    - "Strong debugging and analytical skills"
+  
+  collaboration:
+    - "Clear communication and documentation"
+    - "Agile methodology experience"
+    - "Mentorship and knowledge sharing mindset"
+
+availability: "Open to exciting opportunities and collaborations"
+```
+
+---
+
+<div align="center">
+
+### ⚡ **Ready to build something amazing together?** 
+
+*Let's connect and discuss how we can create impactful solutions!*
+
+📧 **ronald.dearmass@gmail.com** | 💼 **Open for Opportunities**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
