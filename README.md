@@ -35,7 +35,7 @@ const ronald = {
 ## 🌟 Featured Projects
 
 ### 🎯 ChessMaster - Advanced Chess Platform
-> **Next.js 14 • TypeScript • PostgreSQL • Prisma • WebSockets**
+> **Next.js 14 • TypeScript • PostgreSQL • Prisma • Specific APIs**
 
 ```bash
 🚀 Live Demo: https://chess-openings-indol.vercel.app
