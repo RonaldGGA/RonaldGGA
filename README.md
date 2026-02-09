@@ -1,11 +1,8 @@
-# 💻 Ronald De Armas | Full-Stack Developer
+# 💻 Ronald Gonzalez De Armas | Full-Stack Developer
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ronaldgga&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Coding%20%F0%9F%92%BB-blue?style=for-the-badge)
-
-*"Transforming complex problems into elegant solutions through code"*
+*""*
 
 </div>
 
@@ -14,12 +11,12 @@
 ```typescript
 const ronald = {
   pronouns: "he" | "him",
-  code: ["TypeScript", "Python", "C++", "Java"],
+  code: ["TypeScript", "Python", "C++", "C"],
   technologies: {
     frontend: {
       frameworks: ["Next.js", "React", "Tailwind CSS"],
       stateManagement: ["Zustand", "Redux Toolkit"],
-      testing: ["Jest", "React Testing Library"]
+      testing: ["ongoing"]
     },
     backend: {
       runtime: ["Node.js", "Express"],
@@ -29,9 +26,9 @@ const ronald = {
     devOps: ["Docker", "Vercel", "GitHub Actions"],
     tools: ["Git", "Postman", "VS Code"]
   },
-  architecture: ["Microservices", "REST APIs", "Serverless"],
-  currentFocus: "Building scalable full-stack applications with cutting-edge tech",
-  funFact: "I solve coding challenges for breakfast 🧠"
+  architecture: ["REST APIs"],
+  currentFocus: "Building a Linear.app clone and Mastering DevOps",
+  funFact: "I solve coding challenges just for fun once in a while :)"
 };
 ```
 
@@ -45,19 +42,6 @@ const ronald = {
 📁 Repository: Private (Available on request)
 ```
 
-**Key Features:**
-- Real-time multiplayer chess with WebSocket integration
-- Advanced chess engine analysis
-- Opening repertoire builder with AI suggestions
-- Performance analytics and move history
-- Responsive design with PWA capabilities
-
-### 🔥 Other Notable Projects
-| Project | Tech Stack | Description | Status |
-|---------|------------|-------------|---------|
-| **E-Commerce Platform** | Next.js, Stripe, PostgreSQL | Full-stack e-commerce with admin dashboard | 🟡 Live but needs developing |
-| **Task Management AI** | React, Node.js, OpenAI API | AI-powered task prioritization | 🔧 Developing |
-| **Dev Community** | Next.js, Redis, WebSockets | Real-time developer community platform | 🔧 Developing |
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -106,13 +90,8 @@ current_goals = {
         "Advanced System Design",
         "Microservices Architecture", 
         "Real-time Applications with WebSockets",
-        "Advanced TypeScript Patterns"
-    ],
-    "exploring": [
-        "Machine Learning with Python",
-        "Cloud Native Technologies",
-        "Blockchain Development",
-        "AI/ML Integration in Web Apps"
+        "Advanced TypeScript Patterns",
+        "DevOps tools and workflows"
     ],
     "certifications_in_progress": [
         "AWS Certified Developer",
@@ -149,7 +128,6 @@ value_proposition:
   
   collaboration:
     - "Clear communication and documentation"
-    - "Agile methodology experience"
     - "Mentorship and knowledge sharing mindset"
 
 availability: "Open to exciting opportunities and collaborations"
