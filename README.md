@@ -1,4 +1,4 @@
-# 💻 Ronald Gonzalez De Armas | Full-Stack Developer
+# 💻 Ronald Gonzalez De Armas | Full-Stack Developer 
 
 <div align="center">
 
@@ -39,7 +39,6 @@ const ronald = {
 
 ```bash
 🚀 Live Demo: https://chess-openings-indol.vercel.app
-📁 Repository: Private (Available on request)
 ```
 
 
@@ -86,14 +85,12 @@ const ronald = {
 
 ```python
 current_goals = {
-    "mastering": [
-        "Advanced System Design",
-        "Microservices Architecture", 
-        "Real-time Applications with WebSockets",
-        "Advanced TypeScript Patterns",
+    "mastering": {
+        "AWS", 
         "DevOps tools and workflows"
     ],
     "certifications_in_progress": [
+        "AWS Cloud Parctitioner",
         "AWS Certified Developer",
         "Google Cloud Professional"
     ]
