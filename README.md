@@ -27,7 +27,7 @@ const ronald = {
     tools: ["Git", "Postman", "VS Code"]
   },
   architecture: ["REST APIs"],
-  currentFocus: "Building a Linear.app clone and Mastering DevOps",
+  currentFocus: "Mastering AWS",
   funFact: "I solve coding challenges just for fun once in a while :)"
 };
 ```
