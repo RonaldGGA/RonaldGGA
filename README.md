@@ -70,12 +70,6 @@ const ronald = {
 
 <div align="center">
 
-### 📈 Coding Activity
-![Ronald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaldgga&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-### 🗣️ Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldgga&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronaldgga&theme=radical&hide_border=true)
 
