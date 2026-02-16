@@ -85,8 +85,7 @@ current_goals = {
     ],
     "certifications_in_progress": [
         "AWS Cloud Parctitioner",
-        "AWS Certified Developer",
-        "Google Cloud Professional"
+        "AWS Certified Developer"
     ]
 }
 ```
