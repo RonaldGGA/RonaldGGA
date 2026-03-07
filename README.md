@@ -1,138 +1,24 @@
-# 💻 Ronald Gonzalez De Armas | Full-Stack Developer 
+# Ronald González — Full-Stack Developer
 
-<div align="center">
+Self-taught developer with 2+ years building production-ready applications.
+Currently pursuing AWS Cloud Practitioner certification (April 2026).
 
-*"Coding? That is the easiest part..."*
+## What I've Built
 
-</div>
+**[Library Management System](link)** — Book-lending platform with RBAC, JWT auth, and loan tracking.
+Reduced API response time 60% via PostgreSQL index optimization. → [Live](link)
 
-## 🚀 About Me
+**[ChessMaster](link)** — Chess opening trainer with 12,000+ variations and real-time Stockfish AI integration.
+Handles full-text search across large datasets with graceful API fallback logic. → [Live](link)
 
-```typescript
-const ronald = {
-  pronouns: "he" | "him",
-  code: ["TypeScript", "Python", "C++", "C"],
-  technologies: {
-    frontend: {
-      frameworks: ["Next.js", "React", "Tailwind CSS"],
-      stateManagement: ["Zustand", "Redux Toolkit"],
-      testing: ["ongoing"]
-    },
-    backend: {
-      runtime: ["Node.js", "Express"],
-      databases: ["PostgreSQL", "MongoDB", "Prisma"],
-      auth: ["NextAuth", "Auth.js"]
-    },
-    devOps: ["Docker", "Vercel", "GitHub Actions"],
-    tools: ["Git", "Postman", "VS Code"]
-  },
-  architecture: ["REST APIs"],
-  currentFocus: "Mastering AWS",
-  funFact: "I solve coding challenges just for fun once in a while :)"
-};
-```
+**[Multi-Tenant Store Dashboard](link)** — Admin panel for multiple stores with dynamic inventory and role management.
+Resolved state inconsistency bugs; 40% re-render reduction via React DevTools profiling.
 
-## 🌟 Featured Projects
+**[AWS Support Toolkit](link)** — CLI tool (Python/boto3) automating EC2, IAM, and network diagnostics.
+80%+ test coverage with pytest.
 
-### 🎯 ChessMaster - Advanced Chess Platform
-> **Next.js 14 • TypeScript • PostgreSQL • Prisma • Specific APIs**
+## Stack
+TypeScript · Next.js 14 · React · PostgreSQL · Prisma · Docker · Node.js · Python · AWS
 
-```bash
-🚀 Live Demo: https://chess-openings-indol.vercel.app
-```
-
-
-## 🛠️ Tech Stack & Expertise
-
-### 💼 Core Competencies
-<div align="center">
-
-**Frontend Mastery**
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend Excellence**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**Developer Tools**
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-</div>
-
-## 📊 Development Analytics
-
-<div align="center">
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronaldgga&theme=radical&hide_border=true)
-
-</div>
-
-## 🎯 Currently Building & Learning
-
-```python
-current_goals = {
-    "mastering": {
-        "AWS", 
-        "DevOps tools and workflows"
-    ],
-    "certifications_in_progress": [
-        "AWS Cloud Parctitioner",
-        "AWS Certified Developer"
-    ]
-}
-```
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronald.dearmass@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronald-de-armas-8797082ab)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/ronaldgg)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ronaldgga)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-ronalddearmas.vercel.app)
-
-</div>
-
-## 💡 What I Bring to Your Team
-
-```yaml
-value_proposition:
-  technical_excellence:
-    - "Clean, maintainable code with best practices"
-    - "Performance optimization and scalability focus"
-    - "Modern tech stack with future-proof solutions"
-  
-  problem_solving:
-    - "Algorithmic thinking and efficient solutions"
-    - "Creative approach to complex challenges"
-    - "Strong debugging and analytical skills"
-  
-  collaboration:
-    - "Clear communication and documentation"
-    - "Mentorship and knowledge sharing mindset"
-
-availability: "Open to exciting opportunities and collaborations"
-```
-
----
-
-<div align="center">
-
-### ⚡ **Ready to build something amazing together?** 
-
-*Let's connect and discuss how we can create impactful solutions!*
-
-📧 **ronald.dearmass@gmail.com** | 💼 **Open for Opportunities**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-</div>
+## Contact
+ronald.dearmass@gmail.com · [LinkedIn](link) · [Portfolio](link)
