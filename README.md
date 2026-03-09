@@ -7,7 +7,7 @@ Self-taught developer with 2+ years building production-ready applications.
 **[SensorWatch AI](https://github.com/RonaldGGA/sensorwatch-ai)** — Real-Time industrial sensor monitoring dashboard with AI-powered anomaly detection. → [Live](https://sensorwatch-ai.vercel.app)
 
 **[Library Management System](https://github.com/RonaldGGA/LibraryManagementSystem)** — Book-lending platform with RBAC, JWT auth, and loan tracking.
-Reduced API response time 60% via PostgreSQL index optimization. → [Live]((https://lms-libraryhub.vercel.app)
+Reduced API response time 60% via PostgreSQL index optimization. → [Live](https://lms-libraryhub.vercel.app)
 
 **[ChessMaster](https://github.com/RonaldGGA/ChessMaster)** — Chess opening trainer with 12,000+ variations and real-time Stockfish AI integration.
 Handles full-text search across large datasets with graceful API fallback logic. → [Live](https://chess-openings-indol.vercel.app)
