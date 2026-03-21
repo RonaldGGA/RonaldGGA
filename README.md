@@ -17,3 +17,5 @@ TypeScript · Next.js 14 · React · PostgreSQL · Prisma · Docker · Node.js �
 
 ## Contact
 ronald.dearmass@gmail.com · [LinkedIn](https://www.linkedin.com/in/ronald-de-armas-8797082ab) · [Portfolio](https://portfolio-ronalddearmas.vercel.app)
+
+Available for remote work
