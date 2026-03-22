@@ -1,21 +1,60 @@
 # Ronald González — Full-Stack Developer
 
-Self-taught developer with 2+ years building production-ready applications.
+Self-taught developer based in Cuba, 2+ years building and shipping 
+production applications. Currently studying Automation Engineering 
+at CUJAE while working on AI-integrated full-stack systems.
 
-## What I've Built
+I specialize in Next.js + TypeScript + PostgreSQL applications 
+with LLM integration. My background in industrial systems thinking 
+shapes how I design software — I care about reliability, 
+real failure modes, and what happens when things break.
 
-**[SensorWatch AI](https://github.com/RonaldGGA/sensorwatch-ai)** — Real-Time industrial sensor monitoring dashboard with AI-powered anomaly detection. → [Live](https://sensorwatch-ai.vercel.app)
+**C1 English (Cambridge CAE 193/210) · Open to remote work globally**
 
-**[Library Management System](https://github.com/RonaldGGA/LibraryManagementSystem)** — Book-lending platform with RBAC, JWT auth, and loan tracking.
-Reduced API response time 60% via PostgreSQL index optimization. → [Live](https://lms-libraryhub.vercel.app)
+---
 
-**[ChessMaster](https://github.com/RonaldGGA/ChessMaster)** — Chess opening trainer with 12,000+ variations and real-time Stockfish AI integration.
-Handles full-text search across large datasets with graceful API fallback logic. → [Live](https://chess-openings-indol.vercel.app)
+## Featured Work
+
+**[SensorWatch AI](https://github.com/RonaldGGA/sensorwatch-ai)**  
+Real-time industrial sensor monitoring dashboard with AI-powered 
+anomaly detection. LLM pipeline generates maintenance recommendations 
+in natural language. JWT auth, PostgreSQL audit trails, 
+weekly AI report generation.  
+→ [Live demo](https://sensorwatch-ai.vercel.app) · Stack: Next.js 14, 
+TypeScript, PostgreSQL, OpenRouter, Recharts
+
+**[Library Management System](https://github.com/RonaldGGA/LibraryManagementSystem)**  
+Full book-lending platform with RBAC (admin/librarian/member), 
+loan tracking, and search. Reduced API response time 60% through 
+PostgreSQL index optimization and Prisma query tuning.  
+→ [Live demo](https://lms-libraryhub.vercel.app) · Stack: Next.js 14, 
+TypeScript, PostgreSQL, Prisma, Docker
+
+**[ChessMaster](https://github.com/RonaldGGA/ChessMaster)**  
+Chess opening trainer with 12,000+ variations and real-time 
+AI move suggestions via Stockfish API.  
+→ [Live demo](https://chess-openings-indol.vercel.app) · Stack: 
+Next.js, TypeScript, PostgreSQL, Stockfish API
+
+---
 
 ## Stack
-TypeScript · Next.js 14 · React · PostgreSQL · Prisma · Docker · Node.js · Python · AI
 
-## Contact
-ronald.dearmass@gmail.com · [LinkedIn](https://www.linkedin.com/in/ronald-de-armas-8797082ab) · [Portfolio](https://portfolio-ronalddearmas.vercel.app)
+**Frontend:** Next.js 14 (App Router), React, TypeScript, Tailwind CSS, shadcn/ui  
+**Backend:** Node.js, Next.js API Routes, tRPC, REST APIs, JWT, NextAuth.js  
+**AI/LLM:** OpenAI SDK, OpenRouter, prompt engineering, JSON structured outputs  
+**Databases:** PostgreSQL, Prisma ORM, Neon, SQL optimization  
+**DevOps:** Docker, Git, Vercel, CI/CD, Linux  
 
-Available for remote work
+---
+
+## Currently
+
+- 1st year Automation Engineering @ CUJAE, Havana
+- Open to remote Full-Stack or AI engineering roles
+
+---
+
+📧 ronald.dearmass@gmail.com  
+🔗 [Portfolio](https://portfolio-ronalddearmas.vercel.app) · 
+[LinkedIn](https://linkedin.com/in/ronald-de-armas-8797082ab)
