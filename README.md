@@ -24,14 +24,14 @@ Real-time industrial sensor monitoring dashboard with AI-powered
 anomaly detection. LLM pipeline generates maintenance recommendations 
 in natural language. JWT auth, PostgreSQL audit trails, 
 weekly AI report generation.  
-→ [Live demo](https://sensorwatch-ai.vercel.app) · Stack: Next.js 14, 
+→ [Live demo](https://sensorwatch-ai.vercel.app) · Stack: Next.js 16, 
 TypeScript, PostgreSQL, OpenRouter, Recharts
 
 **[Library Management System](https://github.com/RonaldGGA/LibraryManagementSystem)**  
 Full book-lending platform with RBAC (admin/librarian/member), 
 loan tracking, and search. Reduced API response time 60% through 
 PostgreSQL index optimization and Prisma query tuning.  
-→ [Live demo](https://lms-libraryhub.vercel.app) · Stack: Next.js 14, 
+→ [Live demo](https://lms-libraryhub.vercel.app) · Stack: Next.js , 
 TypeScript, PostgreSQL, Prisma, Docker
 
 **[ChessMaster](https://github.com/RonaldGGA/ChessMaster)**  
@@ -44,7 +44,7 @@ Next.js, TypeScript, PostgreSQL, Stockfish API
 
 ## Stack
 
-**Frontend**: Next.js 14 / 16 (App Router), React, TypeScript, Tailwind CSS, shadcn/ui, Recharts
+**Frontend**: Next.js 16 (App Router), React, TypeScript, Tailwind CSS, shadcn/ui, Recharts
 **Backend**: Node.js, Next.js API Routes, tRPC, REST APIs, JWT, RBAC, NextAuth.js, Better Auth
 AI/LLM: OpenAI SDK, OpenRouter, Google Gemini 2.5 Flash, LLM prompt engineering, JSON structured outputs
 **Databases**: PostgreSQL, Prisma ORM (Prisma 7), Neon (serverless), SQL optimization, connection pooling
