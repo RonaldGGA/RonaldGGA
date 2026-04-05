@@ -15,6 +15,10 @@ real failure modes, and what happens when things break.
 
 ## Featured Work
 
+**[ClientFlow](https://github.com/RonaldGGA/clientflow)**
+Multi-tenant client and service management system for small businesses with AI-powered weekly reports. LLM pipeline (Gemini + OpenRouter fallback) generates natural language summaries of revenue, top services, and staff performance. Role-based access (admin/staff), immutable visits, full i18n (English/Spanish)
+→ [Live demo](https://clientflow-demo.vercel.app) · Stack: Next.js 16, TypeScript, PostgreSQL, Prisma, Better Auth, Gemini, Recharts,
+
 **[SensorWatch AI](https://github.com/RonaldGGA/sensorwatch-ai)**  
 Real-time industrial sensor monitoring dashboard with AI-powered 
 anomaly detection. LLM pipeline generates maintenance recommendations 
@@ -40,18 +44,17 @@ Next.js, TypeScript, PostgreSQL, Stockfish API
 
 ## Stack
 
-**Frontend:** Next.js 14 (App Router), React, TypeScript, Tailwind CSS, shadcn/ui  
-**Backend:** Node.js, Next.js API Routes, tRPC, REST APIs, JWT, NextAuth.js  
-**AI/LLM:** OpenAI SDK, OpenRouter, prompt engineering, JSON structured outputs  
-**Databases:** PostgreSQL, Prisma ORM, Neon, SQL optimization  
-**DevOps:** Docker, Git, Vercel, CI/CD, Linux  
-
+**Frontend**: Next.js 14 / 16 (App Router), React, TypeScript, Tailwind CSS, shadcn/ui, Recharts
+**Backend**: Node.js, Next.js API Routes, tRPC, REST APIs, JWT, RBAC, NextAuth.js, Better Auth
+AI/LLM: OpenAI SDK, OpenRouter, Google Gemini 2.5 Flash, LLM prompt engineering, JSON structured outputs
+**Databases**: PostgreSQL, Prisma ORM (Prisma 7), Neon (serverless), SQL optimization, connection pooling
+**DevOps**: Docker, Git/GitHub, Vercel, CI/CD, Linux
 ---
 
 ## Currently
 
 - 1st year Automation Engineering @ CUJAE, Havana
-- Open to remote Full-Stack or AI engineering roles
+- Open to remote Full-Stack, Frontend or AI engineering roles
 
 ---
 
