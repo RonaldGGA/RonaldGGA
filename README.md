@@ -41,14 +41,17 @@ AI move suggestions via Stockfish API.
 Next.js, TypeScript, PostgreSQL, Stockfish API
 
 ---
-
 ## Stack
 
-**Frontend**: Next.js 16 (App Router), React, TypeScript, Tailwind CSS, shadcn/ui, Recharts
-**Backend**: Node.js, Next.js API Routes, tRPC, REST APIs, JWT, RBAC, NextAuth.js, Better Auth
-AI/LLM: OpenAI SDK, OpenRouter, Google Gemini 2.5 Flash, LLM prompt engineering, JSON structured outputs
-**Databases**: PostgreSQL, Prisma ORM (Prisma 7), Neon (serverless), SQL optimization, connection pooling
-**DevOps**: Docker, Git/GitHub, Vercel, CI/CD, Linux
+**Frontend:** Next.js 16 (App Router), React, TypeScript, Tailwind CSS, shadcn/ui, Recharts
+
+**Backend:** Node.js, Next.js API Routes, tRPC, REST APIs, JWT, RBAC, NextAuth.js, Better Auth
+
+**AI/LLM:** OpenAI SDK, OpenRouter, Google Gemini 2.5 Flash, LLM prompt engineering, JSON structured outputs
+
+**Databases:** PostgreSQL, Prisma ORM (Prisma 7), Neon (serverless), SQL optimization, connection pooling
+
+**DevOps:** Docker, Git/GitHub, Vercel, CI/CD, Linux
 ---
 
 ## Currently
