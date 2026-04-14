@@ -15,6 +15,10 @@ real failure modes, and what happens when things break.
 
 ## Featured Work
 
+**[Setpoint](https://github.com/RonaldGGA/setpoint-blog)**  
+Technical publication specialized in Industry 4.0 — SCADA, PLCs, IIoT, OPC-UA, and industrial automation — built as a professional product, not a generic blog. Headless CMS architecture with Contentful GraphQL, Redis caching layer, and AI-powered cross-platform syndication. Demonstrates production-grade Next.js 16 patterns: Server Components, ISR, type-safe GraphQL, and serverless PostgreSQL.  
+→ [Live demo](https://setpoint-blog.vercel.app) · Stack: Next.js 16 (App Router, Turbopack), TypeScript, Contentful (Headless CMS), Apollo GraphQL, PostgreSQL (Neon), Prisma 7, Redis (Upstash), Better Auth, Gemini API, Framer Motion, Tailwind CSS v4
+
 **[ClientFlow](https://github.com/RonaldGGA/clientflow)**
 Multi-tenant client and service management system for small businesses with AI-powered weekly reports. LLM pipeline (Gemini + OpenRouter fallback) generates natural language summaries of revenue, top services, and staff performance. Role-based access (admin/staff), immutable visits, full i18n (English/Spanish)
 → [Live demo](https://clientflow-demo.vercel.app) · Stack: Next.js 16, TypeScript, PostgreSQL, Prisma, Better Auth, Gemini, Recharts,
